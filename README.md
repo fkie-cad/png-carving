@@ -9,4 +9,7 @@ Consider this repository as a meta repository indicating where to find the suppl
 ## A Framework to Generate File Carving Test Data
 The file carving test data generation framework has been named Woodblock. You can find it [here](https://github.com/fkie-cad/woodblock).
 
+## Dataset
+The dataset we used in our evaluation is available on [Zenodo](https://doi.org/10.5281/zenodo.3368393):
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3368393.svg)](https://doi.org/10.5281/zenodo.3368393)
